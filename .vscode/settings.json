@@ -1,0 +1,5 @@
+{
+    "telemetry.editStats.enabled": false,
+    "chat.agent.enabled": false,
+    "chat.agent.codeBlockProgress": false
+}
